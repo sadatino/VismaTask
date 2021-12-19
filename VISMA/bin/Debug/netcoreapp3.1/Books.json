@@ -1,0 +1,90 @@
+[
+  {
+    "name": "VISALIA",
+    "author": "Dolores Joyce",
+    "category": "Romantic",
+    "language": "EN",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "a16aee33-7798-4852-88ba-54ac8103737b"
+  },
+  {
+    "name": "CENTREXIN",
+    "author": "Lott Sandoval",
+    "category": "Dystopia",
+    "language": "EN",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "9266418f-0911-419d-a016-2295dfada397"
+  },
+  {
+    "name": "FLEETMIX",
+    "author": "Dillard Gill",
+    "category": "Dystopia",
+    "language": "EN",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "854b0530-3b96-4cb4-95d6-571656e5f6cd"
+  },
+  {
+    "name": "DUFLEX",
+    "author": "Knight Heath",
+    "category": "Romantic",
+    "language": "RU",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "2e66527c-d115-4c26-810a-6caca76477b4"
+  },
+  {
+    "name": "ACLIMA",
+    "author": "Debra Hoffman",
+    "category": "Romantic",
+    "language": "LT",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "26fec2b8-d158-4a69-820f-a35ee7a70798"
+  },
+  {
+    "name": "XURBAN",
+    "author": "Schmidt Cooper",
+    "category": "Novel",
+    "language": "LT",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "ccb39df9-c107-43d8-80da-627fbf959172"
+  },
+  {
+    "name": "MEDMEX",
+    "author": "Faulkner Torres",
+    "category": "Romantic",
+    "language": "EN",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "df779e6b-d9b5-4713-892e-5e6df9d48fed"
+  },
+  {
+    "name": "WATERBABY",
+    "author": "Tran Carson",
+    "category": "Novel",
+    "language": "LT",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "fb54537a-7c0a-47b0-9d33-f53198d6e4da"
+  },
+  {
+    "name": "GALLAXIA",
+    "author": "Gill Lambert",
+    "category": "Novel",
+    "language": "LT",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "458a8183-1000-4567-96a1-468f803fc143"
+  },
+  {
+    "name": "CANDECOR",
+    "author": "Amparo Sawyer",
+    "category": "Novel",
+    "language": "LT",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "5b8e23ab-22d3-4da9-8f31-b7153c3043e0"
+  },
+  {
+    "name": "FILODYNE",
+    "author": "Ramona Price",
+    "category": "Dystopia",
+    "language": "LT",
+    "publicationDate": "1967-05-24T00:00:00",
+    "isbn": "56c4ac9b-a9ff-459d-89c6-063cfb5bb092"
+  }
+]

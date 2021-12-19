@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ldy+0LMOuHT2L4l+SMHHyxBuDpZ71qzbXUhhTrVoszCBub160NreSPLdXVjspOYdK5792UmA2y9ThWLWA/Q4Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tadas\\source\\repos\\VISMA\\VISMA\\VISMA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
